@@ -22,4 +22,4 @@ used technologies:
 - Git
 - Android OS
 - Notion
-- Google Drive
+- Google Cloud
