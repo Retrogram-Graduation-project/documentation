@@ -11,3 +11,15 @@ Retro-Device is a holographic device consisting of a screen, and a special-purpo
 ## Distributing work
 Through [notion](https://www.notion.so/1d720e2336ee4a488dcc9a11f003ef0c?v=c4031935ab1a489084d29a85f6ed0d9e), for example:  
 ![tasks](pictures/tasks.png)
+
+
+## Analysis
+[Documentation link](https://docs.google.com/document/d/1_3NxUFQF-LhQ6bwjHltvJ0JjI0_LIx_KJzWwribno-k/edit), 
+used technologies:
+- Flutter
+- Dart
+- Tizen wearables
+- Git
+- Android OS
+- Notion
+- Google Drive
